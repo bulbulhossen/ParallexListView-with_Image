@@ -1,0 +1,11 @@
+<com.twotoasters.jazzylistview.JazzyListView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/exactListView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scrollbars="none"
+    app:effect="cards"
+    app:max_velocity="0"
+    android:background="@drawable/paddyy"
+    app:only_animate_fling="false"
+    app:only_animate_new_items="false" />

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="5dp"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:paddingTop="5dp">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/title_rectangle_rounded_background">
+
+        <com.moshx.listviewsample.Bangla_Font
+            android:id="@+id/textView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_gravity="center"
+
+            android:gravity="center"
+            android:padding="10dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="5dp"
+            android:text="Item Name"
+            android:textAlignment="center"
+            android:textColor="#000"
+            android:textSize="18sp" />
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

@@ -12,6 +12,20 @@
         android:adjustViewBounds="true"
         android:scaleType="fitCenter"
         android:src="@drawable/paddyy" />
+<!--
+
+    <TextView
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="bottom"
+        android:gravity="center"
+        android:textColor="#fff"
+        android:textSize="30sp"
+        android:textAlignment="center"
+        android:text="Paddy"
+        android:background="#000"
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+-->
 
 
 </FrameLayout>

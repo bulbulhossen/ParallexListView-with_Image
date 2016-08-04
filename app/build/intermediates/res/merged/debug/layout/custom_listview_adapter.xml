@@ -12,7 +12,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="@drawable/title_rectangle_rounded_background">
-
         <com.moshx.listviewsample.Bangla_Font
             android:id="@+id/textView1"
             android:layout_width="match_parent"

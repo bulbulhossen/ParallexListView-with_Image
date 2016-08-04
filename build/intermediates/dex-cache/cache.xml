@@ -1,2 +1,89 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/exploded-aar/com.twotoasters.jazzylistview/library/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="451e07e95c9f662049ab14915bd1c8114e8acc2b">
+        <dex dex="/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.twotoasters.jazzylistview-library-1.2.1_ec48ee040d094cb0da2c87bc528dcf6813884d5f/classes.dex" />
+    </item>
+    <item
+        jar="/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="be6c5856a30721f2a09d6ad2e509ceade4f3fdf2">
+        <dex dex="/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ac1935a4eb184d48c362c49c4ba28b39842a6e71/classes.dex" />
+    </item>
+    <item
+        jar="/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_c15088a2949f8d574495814723a94f222eb7d782/classes.dex" />
+    </item>
+    <item
+        jar="/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/exploded-aar/com.twotoasters.jazzylistview/library-recyclerview/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="00f42ab7ae9f8747f735bba2cc61c3fdaf7133be">
+        <dex dex="/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.twotoasters.jazzylistview-library-recyclerview-1.2.1_add8d2a3710ba65c24cb3fa8104e0916a6a2a662/classes.dex" />
+    </item>
+    <item
+        jar="/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.1.1_1c74eccf07c09947006a08c3de8e03c36f9cf9b4/classes.dex" />
+    </item>
+    <item
+        jar="/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_e8c4d265bcc96c0d59401c085c48f470efeda787/classes.dex" />
+    </item>
+    <item
+        jar="/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_b17de0ae17ef35251622ec6e86b0e0186795fbd0/classes.dex" />
+    </item>
+    <item
+        jar="/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.1.1_103676e9d32618f6b56badf8fd3858df5012fda3/classes.dex" />
+    </item>
+    <item
+        jar="/home/bulbulhossen/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_fb746992aa27923b41ee2729bb51505667ec0934/classes.dex" />
+    </item>
+    <item
+        jar="/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="422f11db52885a1e74e4a59a0126344e02a39fd4">
+        <dex dex="/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e6db62c7c1b2c38ce94ee375178f120aa050438e/classes.dex" />
+    </item>
+    <item
+        jar="/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_00087c6ffd9f8cd9b131b62ed4354d93bd0935b2/classes.dex" />
+    </item>
+    <item
+        jar="/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_0ac4b506d9c941bfa75d37ccbc0b722a291133e0/classes.dex" />
+    </item>
+
+</items>

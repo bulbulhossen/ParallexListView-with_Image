@@ -48,12 +48,12 @@
         "source": "/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_menu_item_action_area.xml"
     },
     {
-        "merged": "/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
-        "source": "/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
         "merged": "/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
         "source": "/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
     },
     {
         "merged": "/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
@@ -76,10 +76,6 @@
         "source": "/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_layout_tab_text.xml"
     },
     {
-        "merged": "/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/res/merged/debug/layout/view_carousel.xml",
-        "source": "/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/exploded-aar/com.synnapps/carouselview/0.0.2/res/layout/view_carousel.xml"
-    },
-    {
         "merged": "/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
         "source": "/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_dialog_title_material.xml"
     },
@@ -92,24 +88,24 @@
         "source": "/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
-        "source": "/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
-    },
-    {
         "merged": "/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
         "source": "/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
     },
     {
         "merged": "/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
         "source": "/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_up_container.xml"
     },
     {
-        "merged": "/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
-        "source": "/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/src/main/res/layout/activity_main.xml"
-    },
-    {
         "merged": "/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
         "source": "/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/src/main/res/layout/activity_main.xml"
     },
     {
         "merged": "/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
@@ -148,12 +144,12 @@
         "source": "/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
-        "source": "/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_popup_menu_item_layout.xml"
-    },
-    {
         "merged": "/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
         "source": "/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_popup_menu_item_layout.xml"
     },
     {
         "merged": "/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
@@ -164,12 +160,12 @@
         "source": "/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
-        "source": "/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_layout.xml"
-    },
-    {
         "merged": "/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
         "source": "/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_layout.xml"
     },
     {
         "merged": "/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",

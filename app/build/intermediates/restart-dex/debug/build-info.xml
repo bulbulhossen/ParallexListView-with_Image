@@ -1,51 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86_64,x86"
+    abi="x86_64"
     api-level="22"
     density="xxhdpi"
     format="7"
-    timestamp="30441644850086"
+    timestamp="2176530333069"
     token="-4263216950632441393" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="3813" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="1225" />
     <task
         name="verifier"
-        duration="0" />
+        duration="64" />
 
     <artifact
-        location="/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/res/resources-debug.ap_"
-        type="RESOURCES" />
+        location="/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
 
-    <build timestamp="29159026453287" >
+    <build timestamp="2176530333069" >
         <artifact
             location="/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
-    </build>
-    <build
-        timestamp="30281147687034"
-        verifier="R_CLASS_CHANGE" >
-        <artifact
-            location="/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
-            type="DEX" />
-    </build>
-    <build timestamp="30441644850086" >
-        <artifact
-            location="/home/bulbulhossen/Desktop/khan/ParallexListView-Sample-master/app/build/intermediates/res/resources-debug.ap_"
-            type="RESOURCES" />
     </build>
 
 </instant-run>
